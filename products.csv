@@ -1,0 +1,9 @@
+product_id,product_name,category
+PR01,BNPL,Lending
+PR02,Credit Card,Credit
+PR03,Personal Loan,Lending
+PR04,Health Insurance,Protection
+PR05,Digital Wallet,Payments
+PR06,EMI Financing,Lending
+PR07,Rewards Plus,Loyalty
+PR08,Investment Lite,Wealth

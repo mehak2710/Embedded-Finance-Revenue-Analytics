@@ -1,0 +1,501 @@
+customer_id,signup_date,city,age_group,income_segment,acquisition_channel
+C001,2025-04-30,Jaipur,35-44,Medium,Paid Ads
+C002,2025-08-03,Hyderabad,25-34,Medium,Organic
+C003,2025-03-23,Kolkata,25-34,Low,Partner
+C004,2025-02-22,Mumbai,25-34,Medium,Partner
+C005,2025-05-16,Delhi,35-44,Medium,Social Media
+C006,2025-02-10,Jaipur,25-34,Medium,Partner
+C007,2025-10-23,Hyderabad,35-44,Low,Referral
+C008,2025-05-29,Mumbai,35-44,High,Social Media
+C009,2025-05-23,Ahmedabad,35-44,Medium,Partner
+C010,2025-07-01,Hyderabad,35-44,Medium,Organic
+C011,2025-03-29,Jaipur,35-44,Low,Social Media
+C012,2025-05-19,Jaipur,25-34,Medium,Organic
+C013,2025-04-28,Delhi,35-44,Medium,Organic
+C014,2025-04-19,Gurgaon,35-44,Medium,Social Media
+C015,2025-07-22,Ahmedabad,18-24,Low,Paid Ads
+C016,2025-10-03,Pune,35-44,Medium,Paid Ads
+C017,2025-07-24,Chennai,25-34,High,Paid Ads
+C018,2025-09-10,Mumbai,35-44,High,Referral
+C019,2025-03-23,Kolkata,25-34,Medium,Paid Ads
+C020,2025-08-28,Jaipur,25-34,Medium,Organic
+C021,2025-02-28,Jaipur,35-44,Medium,Partner
+C022,2025-02-27,Pune,25-34,Medium,Partner
+C023,2025-09-14,Bangalore,25-34,Low,Partner
+C024,2025-09-17,Gurgaon,18-24,Medium,Referral
+C025,2025-10-04,Jaipur,45-54,Medium,Social Media
+C026,2025-01-10,Mumbai,45-54,High,Partner
+C027,2025-05-03,Delhi,25-34,Medium,Organic
+C028,2025-02-13,Ahmedabad,35-44,High,Paid Ads
+C029,2025-03-06,Bangalore,35-44,High,Referral
+C030,2025-05-16,Jaipur,35-44,Medium,Referral
+C031,2025-10-04,Hyderabad,35-44,Medium,Partner
+C032,2025-08-13,Jaipur,25-34,Low,Organic
+C033,2025-06-23,Delhi,25-34,Low,Referral
+C034,2025-01-04,Mumbai,35-44,Low,Organic
+C035,2025-01-17,Chennai,18-24,Low,Social Media
+C036,2025-04-20,Jaipur,18-24,High,Paid Ads
+C037,2025-10-23,Ahmedabad,25-34,Medium,Social Media
+C038,2025-04-08,Mumbai,18-24,Medium,Social Media
+C039,2025-07-30,Ahmedabad,35-44,Low,Organic
+C040,2025-02-01,Kolkata,35-44,High,Organic
+C041,2025-05-08,Hyderabad,18-24,Medium,Social Media
+C042,2025-04-04,Pune,25-34,High,Organic
+C043,2025-08-15,Jaipur,18-24,Medium,Paid Ads
+C044,2025-01-08,Mumbai,45-54,High,Referral
+C045,2025-07-28,Ahmedabad,25-34,High,Organic
+C046,2025-03-26,Kolkata,18-24,Medium,Social Media
+C047,2025-05-27,Kolkata,35-44,Medium,Paid Ads
+C048,2025-09-07,Bangalore,18-24,Low,Organic
+C049,2025-10-24,Jaipur,18-24,Medium,Organic
+C050,2025-10-27,Ahmedabad,25-34,High,Referral
+C051,2025-01-30,Jaipur,18-24,Low,Paid Ads
+C052,2025-02-04,Hyderabad,25-34,High,Paid Ads
+C053,2025-05-07,Gurgaon,25-34,Medium,Social Media
+C054,2025-10-26,Gurgaon,25-34,High,Referral
+C055,2025-06-10,Hyderabad,25-34,Low,Partner
+C056,2025-08-23,Chennai,45-54,High,Organic
+C057,2025-08-23,Gurgaon,45-54,High,Organic
+C058,2025-10-03,Hyderabad,25-34,Low,Partner
+C059,2025-02-05,Hyderabad,25-34,Low,Paid Ads
+C060,2025-06-04,Gurgaon,45-54,High,Paid Ads
+C061,2025-01-05,Jaipur,25-34,Medium,Referral
+C062,2025-05-16,Mumbai,35-44,Medium,Referral
+C063,2025-05-20,Pune,35-44,Medium,Referral
+C064,2025-05-16,Jaipur,25-34,High,Organic
+C065,2025-02-17,Kolkata,35-44,Low,Partner
+C066,2025-03-08,Pune,18-24,Medium,Social Media
+C067,2025-10-15,Delhi,18-24,High,Referral
+C068,2025-10-07,Delhi,35-44,Medium,Referral
+C069,2025-08-09,Bangalore,18-24,Medium,Organic
+C070,2025-07-03,Hyderabad,35-44,Medium,Partner
+C071,2025-10-14,Kolkata,45-54,Medium,Referral
+C072,2025-03-25,Bangalore,35-44,Low,Partner
+C073,2025-07-30,Hyderabad,25-34,Medium,Organic
+C074,2025-07-15,Delhi,35-44,Low,Social Media
+C075,2025-06-29,Pune,35-44,High,Referral
+C076,2025-01-13,Hyderabad,25-34,Medium,Organic
+C077,2025-05-23,Chennai,35-44,Medium,Paid Ads
+C078,2025-06-19,Delhi,18-24,High,Referral
+C079,2025-10-25,Pune,18-24,Medium,Partner
+C080,2025-06-10,Kolkata,35-44,Medium,Social Media
+C081,2025-10-23,Hyderabad,25-34,Medium,Organic
+C082,2025-09-24,Jaipur,35-44,High,Referral
+C083,2025-07-06,Kolkata,18-24,Medium,Partner
+C084,2025-06-10,Mumbai,35-44,Medium,Partner
+C085,2025-07-29,Chennai,25-34,Medium,Referral
+C086,2025-04-09,Kolkata,35-44,Medium,Referral
+C087,2025-10-19,Pune,25-34,High,Partner
+C088,2025-05-27,Hyderabad,25-34,Medium,Partner
+C089,2025-08-27,Ahmedabad,25-34,Low,Social Media
+C090,2025-03-28,Mumbai,25-34,Medium,Paid Ads
+C091,2025-06-21,Mumbai,35-44,Medium,Partner
+C092,2025-04-26,Hyderabad,18-24,Low,Social Media
+C093,2025-02-07,Ahmedabad,25-34,Medium,Referral
+C094,2025-07-16,Ahmedabad,25-34,Low,Organic
+C095,2025-02-24,Kolkata,25-34,High,Paid Ads
+C096,2025-08-26,Delhi,25-34,High,Organic
+C097,2025-08-22,Bangalore,35-44,Medium,Paid Ads
+C098,2025-06-12,Ahmedabad,35-44,Medium,Paid Ads
+C099,2025-08-07,Jaipur,25-34,Low,Social Media
+C100,2025-08-19,Pune,35-44,High,Partner
+C101,2025-09-24,Ahmedabad,35-44,Medium,Organic
+C102,2025-05-27,Hyderabad,25-34,Medium,Paid Ads
+C103,2025-02-11,Bangalore,18-24,Medium,Referral
+C104,2025-04-20,Mumbai,25-34,Medium,Social Media
+C105,2025-08-01,Delhi,25-34,Medium,Paid Ads
+C106,2025-01-11,Gurgaon,25-34,Low,Partner
+C107,2025-06-02,Kolkata,35-44,High,Social Media
+C108,2025-10-03,Jaipur,35-44,High,Social Media
+C109,2025-04-23,Pune,25-34,Low,Partner
+C110,2025-07-27,Bangalore,35-44,High,Paid Ads
+C111,2025-10-01,Delhi,45-54,Medium,Organic
+C112,2025-02-12,Kolkata,18-24,Medium,Organic
+C113,2025-05-14,Kolkata,25-34,Medium,Partner
+C114,2025-07-14,Pune,35-44,High,Partner
+C115,2025-02-11,Ahmedabad,18-24,Medium,Partner
+C116,2025-04-25,Mumbai,35-44,Medium,Organic
+C117,2025-05-07,Hyderabad,35-44,Medium,Referral
+C118,2025-03-06,Ahmedabad,35-44,Medium,Referral
+C119,2025-08-27,Pune,35-44,Low,Paid Ads
+C120,2025-02-28,Bangalore,45-54,Low,Organic
+C121,2025-06-09,Gurgaon,35-44,High,Social Media
+C122,2025-04-12,Mumbai,25-34,High,Referral
+C123,2025-02-22,Pune,35-44,Medium,Organic
+C124,2025-10-17,Delhi,25-34,Medium,Partner
+C125,2025-02-05,Jaipur,35-44,Low,Social Media
+C126,2025-09-08,Mumbai,25-34,Medium,Social Media
+C127,2025-03-20,Kolkata,18-24,Medium,Partner
+C128,2025-10-03,Ahmedabad,25-34,High,Paid Ads
+C129,2025-05-18,Chennai,35-44,High,Organic
+C130,2025-05-23,Ahmedabad,25-34,Medium,Paid Ads
+C131,2025-07-14,Chennai,18-24,High,Referral
+C132,2025-09-07,Hyderabad,25-34,Medium,Partner
+C133,2025-05-22,Jaipur,18-24,High,Organic
+C134,2025-05-04,Kolkata,25-34,Medium,Social Media
+C135,2025-09-09,Ahmedabad,35-44,Low,Referral
+C136,2025-07-27,Hyderabad,25-34,Medium,Social Media
+C137,2025-10-11,Jaipur,25-34,High,Paid Ads
+C138,2025-06-19,Chennai,35-44,Medium,Partner
+C139,2025-04-29,Mumbai,35-44,Medium,Paid Ads
+C140,2025-04-05,Hyderabad,25-34,Medium,Paid Ads
+C141,2025-09-26,Gurgaon,25-34,Low,Referral
+C142,2025-06-01,Hyderabad,25-34,Medium,Paid Ads
+C143,2025-03-06,Pune,18-24,Low,Partner
+C144,2025-03-06,Ahmedabad,18-24,Low,Partner
+C145,2025-08-29,Ahmedabad,25-34,Low,Organic
+C146,2025-05-10,Ahmedabad,18-24,Low,Social Media
+C147,2025-02-07,Gurgaon,35-44,Low,Referral
+C148,2025-10-16,Pune,18-24,Low,Paid Ads
+C149,2025-08-02,Gurgaon,25-34,Medium,Paid Ads
+C150,2025-07-14,Ahmedabad,45-54,Medium,Paid Ads
+C151,2025-08-08,Pune,25-34,Low,Organic
+C152,2025-04-17,Hyderabad,25-34,Low,Referral
+C153,2025-03-30,Jaipur,18-24,Low,Social Media
+C154,2025-08-29,Pune,18-24,Medium,Partner
+C155,2025-08-21,Mumbai,35-44,High,Paid Ads
+C156,2025-04-12,Kolkata,18-24,Low,Referral
+C157,2025-05-17,Bangalore,18-24,Low,Partner
+C158,2025-10-19,Pune,25-34,Medium,Partner
+C159,2025-07-26,Pune,25-34,Medium,Organic
+C160,2025-01-21,Kolkata,35-44,Medium,Organic
+C161,2025-02-16,Hyderabad,45-54,High,Paid Ads
+C162,2025-10-28,Delhi,45-54,Medium,Partner
+C163,2025-10-23,Delhi,35-44,Low,Paid Ads
+C164,2025-08-15,Pune,18-24,Medium,Social Media
+C165,2025-02-16,Ahmedabad,25-34,Medium,Organic
+C166,2025-03-24,Chennai,25-34,Medium,Social Media
+C167,2025-10-09,Delhi,25-34,Medium,Partner
+C168,2025-03-01,Kolkata,35-44,High,Organic
+C169,2025-10-05,Ahmedabad,25-34,Low,Partner
+C170,2025-09-13,Ahmedabad,35-44,Low,Paid Ads
+C171,2025-03-09,Pune,25-34,Medium,Organic
+C172,2025-01-15,Gurgaon,35-44,Medium,Partner
+C173,2025-10-10,Delhi,25-34,Low,Organic
+C174,2025-08-25,Mumbai,35-44,Low,Partner
+C175,2025-09-18,Pune,25-34,Medium,Social Media
+C176,2025-05-05,Ahmedabad,25-34,Medium,Paid Ads
+C177,2025-09-18,Bangalore,35-44,Medium,Social Media
+C178,2025-06-24,Jaipur,25-34,Low,Partner
+C179,2025-10-28,Gurgaon,45-54,Medium,Referral
+C180,2025-08-17,Jaipur,25-34,Medium,Paid Ads
+C181,2025-07-13,Ahmedabad,45-54,High,Referral
+C182,2025-10-20,Kolkata,25-34,Medium,Organic
+C183,2025-06-12,Ahmedabad,35-44,High,Social Media
+C184,2025-03-19,Ahmedabad,45-54,Low,Paid Ads
+C185,2025-06-19,Mumbai,35-44,Medium,Paid Ads
+C186,2025-08-22,Delhi,35-44,Medium,Referral
+C187,2025-02-08,Ahmedabad,35-44,Medium,Paid Ads
+C188,2025-07-23,Mumbai,35-44,High,Paid Ads
+C189,2025-07-14,Chennai,35-44,High,Social Media
+C190,2025-10-05,Delhi,35-44,Low,Partner
+C191,2025-04-27,Mumbai,25-34,Low,Organic
+C192,2025-08-16,Bangalore,35-44,High,Organic
+C193,2025-06-16,Delhi,25-34,Medium,Referral
+C194,2025-05-06,Jaipur,25-34,Medium,Referral
+C195,2025-03-29,Bangalore,18-24,High,Paid Ads
+C196,2025-05-04,Ahmedabad,45-54,Low,Social Media
+C197,2025-05-11,Ahmedabad,25-34,Low,Social Media
+C198,2025-05-28,Jaipur,18-24,Medium,Partner
+C199,2025-10-28,Pune,35-44,Medium,Partner
+C200,2025-08-22,Pune,18-24,Medium,Social Media
+C201,2025-02-24,Hyderabad,25-34,Medium,Partner
+C202,2025-06-01,Delhi,45-54,Medium,Partner
+C203,2025-01-05,Gurgaon,35-44,Medium,Organic
+C204,2025-09-12,Pune,35-44,Low,Partner
+C205,2025-04-23,Hyderabad,35-44,Medium,Referral
+C206,2025-02-19,Delhi,25-34,Medium,Paid Ads
+C207,2025-07-06,Bangalore,18-24,Medium,Social Media
+C208,2025-03-31,Hyderabad,18-24,Medium,Partner
+C209,2025-09-29,Jaipur,45-54,High,Partner
+C210,2025-09-04,Pune,35-44,Medium,Organic
+C211,2025-08-28,Mumbai,18-24,High,Social Media
+C212,2025-10-13,Chennai,18-24,Medium,Partner
+C213,2025-10-02,Mumbai,25-34,Medium,Partner
+C214,2025-10-27,Kolkata,35-44,High,Organic
+C215,2025-04-30,Ahmedabad,18-24,High,Paid Ads
+C216,2025-06-17,Gurgaon,25-34,Low,Social Media
+C217,2025-06-04,Kolkata,18-24,Low,Organic
+C218,2025-06-05,Ahmedabad,18-24,Low,Paid Ads
+C219,2025-03-11,Kolkata,25-34,Medium,Paid Ads
+C220,2025-08-03,Gurgaon,35-44,Low,Social Media
+C221,2025-02-20,Ahmedabad,35-44,High,Partner
+C222,2025-01-17,Chennai,25-34,Medium,Referral
+C223,2025-07-05,Mumbai,45-54,Medium,Partner
+C224,2025-02-01,Kolkata,25-34,High,Social Media
+C225,2025-02-16,Hyderabad,35-44,Medium,Organic
+C226,2025-01-26,Chennai,25-34,Low,Paid Ads
+C227,2025-04-16,Mumbai,35-44,Medium,Paid Ads
+C228,2025-04-21,Hyderabad,25-34,Low,Paid Ads
+C229,2025-01-02,Pune,35-44,Low,Referral
+C230,2025-10-04,Pune,35-44,Low,Organic
+C231,2025-03-09,Delhi,25-34,Medium,Paid Ads
+C232,2025-06-15,Delhi,18-24,Low,Social Media
+C233,2025-09-27,Mumbai,35-44,Medium,Partner
+C234,2025-09-20,Gurgaon,18-24,Medium,Paid Ads
+C235,2025-01-23,Jaipur,25-34,Medium,Organic
+C236,2025-02-01,Ahmedabad,35-44,Medium,Organic
+C237,2025-09-09,Ahmedabad,18-24,Low,Paid Ads
+C238,2025-03-17,Mumbai,18-24,Medium,Paid Ads
+C239,2025-10-08,Chennai,25-34,Medium,Partner
+C240,2025-08-21,Jaipur,35-44,Low,Organic
+C241,2025-10-10,Hyderabad,25-34,High,Social Media
+C242,2025-06-23,Ahmedabad,25-34,Medium,Partner
+C243,2025-08-07,Chennai,35-44,Medium,Referral
+C244,2025-08-31,Mumbai,18-24,Low,Social Media
+C245,2025-02-19,Chennai,35-44,Medium,Paid Ads
+C246,2025-10-15,Jaipur,25-34,Low,Partner
+C247,2025-08-05,Delhi,45-54,Medium,Partner
+C248,2025-02-23,Gurgaon,25-34,Low,Social Media
+C249,2025-04-25,Mumbai,25-34,Medium,Organic
+C250,2025-05-23,Gurgaon,25-34,Medium,Paid Ads
+C251,2025-10-13,Delhi,35-44,Medium,Partner
+C252,2025-01-15,Bangalore,25-34,Medium,Partner
+C253,2025-06-29,Delhi,18-24,Low,Social Media
+C254,2025-02-05,Bangalore,35-44,High,Organic
+C255,2025-09-29,Hyderabad,25-34,Medium,Referral
+C256,2025-07-09,Pune,35-44,Medium,Paid Ads
+C257,2025-02-13,Delhi,18-24,Medium,Organic
+C258,2025-02-11,Pune,25-34,Medium,Paid Ads
+C259,2025-08-15,Kolkata,25-34,Medium,Organic
+C260,2025-06-26,Kolkata,18-24,Medium,Paid Ads
+C261,2025-09-07,Jaipur,35-44,Low,Social Media
+C262,2025-01-29,Delhi,25-34,High,Referral
+C263,2025-05-11,Pune,25-34,Low,Social Media
+C264,2025-03-31,Bangalore,25-34,Medium,Paid Ads
+C265,2025-10-14,Chennai,18-24,High,Organic
+C266,2025-08-12,Delhi,25-34,Low,Partner
+C267,2025-10-22,Kolkata,25-34,Medium,Social Media
+C268,2025-05-29,Mumbai,25-34,High,Referral
+C269,2025-08-24,Chennai,18-24,High,Referral
+C270,2025-08-12,Gurgaon,25-34,Low,Partner
+C271,2025-06-23,Hyderabad,25-34,Low,Paid Ads
+C272,2025-02-28,Jaipur,25-34,High,Partner
+C273,2025-06-29,Bangalore,25-34,Low,Referral
+C274,2025-03-30,Gurgaon,18-24,Medium,Organic
+C275,2025-04-01,Ahmedabad,25-34,Medium,Paid Ads
+C276,2025-08-18,Gurgaon,35-44,High,Partner
+C277,2025-06-11,Bangalore,25-34,Medium,Partner
+C278,2025-05-21,Gurgaon,18-24,Medium,Partner
+C279,2025-08-25,Ahmedabad,18-24,Medium,Partner
+C280,2025-02-09,Mumbai,35-44,Medium,Social Media
+C281,2025-10-25,Jaipur,45-54,Medium,Organic
+C282,2025-08-19,Gurgaon,35-44,Medium,Social Media
+C283,2025-09-14,Bangalore,45-54,Medium,Partner
+C284,2025-02-13,Jaipur,35-44,Low,Social Media
+C285,2025-08-13,Jaipur,25-34,Low,Partner
+C286,2025-05-25,Kolkata,25-34,Medium,Paid Ads
+C287,2025-01-27,Chennai,18-24,Low,Social Media
+C288,2025-05-26,Pune,35-44,Medium,Paid Ads
+C289,2025-03-18,Chennai,18-24,Medium,Partner
+C290,2025-06-08,Kolkata,18-24,Medium,Organic
+C291,2025-06-08,Jaipur,25-34,Medium,Referral
+C292,2025-09-27,Mumbai,35-44,Medium,Partner
+C293,2025-01-10,Chennai,25-34,High,Partner
+C294,2025-09-06,Hyderabad,25-34,Low,Organic
+C295,2025-06-01,Mumbai,25-34,Medium,Paid Ads
+C296,2025-01-20,Chennai,35-44,Medium,Paid Ads
+C297,2025-07-12,Bangalore,18-24,High,Paid Ads
+C298,2025-03-26,Ahmedabad,18-24,Medium,Referral
+C299,2025-08-16,Gurgaon,25-34,Medium,Social Media
+C300,2025-04-30,Jaipur,25-34,High,Social Media
+C301,2025-04-10,Chennai,35-44,Medium,Social Media
+C302,2025-08-25,Pune,35-44,Medium,Social Media
+C303,2025-03-24,Hyderabad,35-44,Low,Partner
+C304,2025-01-27,Ahmedabad,35-44,Medium,Organic
+C305,2025-09-22,Mumbai,25-34,Medium,Partner
+C306,2025-08-19,Jaipur,18-24,Medium,Referral
+C307,2025-08-19,Chennai,45-54,Medium,Social Media
+C308,2025-09-15,Chennai,25-34,High,Partner
+C309,2025-04-25,Delhi,25-34,Low,Partner
+C310,2025-03-16,Bangalore,18-24,High,Social Media
+C311,2025-03-13,Ahmedabad,25-34,Low,Organic
+C312,2025-01-10,Pune,25-34,Low,Paid Ads
+C313,2025-09-28,Kolkata,18-24,Medium,Partner
+C314,2025-03-04,Delhi,25-34,Medium,Paid Ads
+C315,2025-08-23,Mumbai,18-24,High,Paid Ads
+C316,2025-10-02,Delhi,35-44,Medium,Referral
+C317,2025-05-30,Kolkata,18-24,Medium,Paid Ads
+C318,2025-08-02,Bangalore,35-44,Low,Partner
+C319,2025-02-04,Jaipur,25-34,Medium,Paid Ads
+C320,2025-10-11,Delhi,25-34,Medium,Social Media
+C321,2025-07-11,Pune,35-44,Medium,Organic
+C322,2025-06-26,Hyderabad,35-44,Medium,Paid Ads
+C323,2025-06-20,Bangalore,18-24,Medium,Referral
+C324,2025-08-26,Ahmedabad,35-44,High,Organic
+C325,2025-08-23,Delhi,25-34,Low,Referral
+C326,2025-01-22,Chennai,45-54,Medium,Paid Ads
+C327,2025-08-31,Pune,18-24,Medium,Partner
+C328,2025-07-02,Delhi,35-44,Medium,Organic
+C329,2025-07-08,Kolkata,35-44,Medium,Social Media
+C330,2025-06-23,Bangalore,25-34,Medium,Paid Ads
+C331,2025-05-17,Mumbai,35-44,Low,Paid Ads
+C332,2025-04-03,Jaipur,25-34,Low,Partner
+C333,2025-06-01,Pune,25-34,Medium,Referral
+C334,2025-08-16,Chennai,25-34,Medium,Partner
+C335,2025-08-11,Pune,35-44,Medium,Organic
+C336,2025-02-08,Kolkata,25-34,High,Referral
+C337,2025-01-16,Bangalore,35-44,Medium,Social Media
+C338,2025-01-18,Bangalore,18-24,Medium,Partner
+C339,2025-07-05,Kolkata,45-54,Low,Referral
+C340,2025-08-19,Chennai,25-34,Medium,Paid Ads
+C341,2025-03-12,Jaipur,25-34,Medium,Partner
+C342,2025-05-08,Mumbai,18-24,Low,Paid Ads
+C343,2025-07-18,Jaipur,18-24,Medium,Social Media
+C344,2025-04-20,Gurgaon,25-34,High,Social Media
+C345,2025-04-13,Mumbai,18-24,Low,Referral
+C346,2025-08-16,Mumbai,35-44,High,Partner
+C347,2025-06-27,Mumbai,25-34,Medium,Partner
+C348,2025-03-22,Bangalore,35-44,Medium,Organic
+C349,2025-04-13,Bangalore,25-34,Medium,Partner
+C350,2025-10-11,Gurgaon,25-34,High,Paid Ads
+C351,2025-03-08,Gurgaon,35-44,Low,Social Media
+C352,2025-09-03,Jaipur,25-34,Medium,Paid Ads
+C353,2025-02-07,Bangalore,45-54,Medium,Social Media
+C354,2025-08-27,Jaipur,25-34,High,Paid Ads
+C355,2025-10-28,Bangalore,35-44,Low,Paid Ads
+C356,2025-01-29,Mumbai,25-34,Medium,Referral
+C357,2025-06-15,Hyderabad,25-34,High,Partner
+C358,2025-02-10,Pune,18-24,High,Partner
+C359,2025-03-06,Pune,35-44,Low,Referral
+C360,2025-10-25,Bangalore,18-24,Medium,Paid Ads
+C361,2025-06-22,Gurgaon,18-24,High,Organic
+C362,2025-01-24,Gurgaon,25-34,Low,Paid Ads
+C363,2025-08-02,Gurgaon,35-44,Medium,Paid Ads
+C364,2025-05-29,Pune,25-34,High,Social Media
+C365,2025-06-02,Ahmedabad,18-24,Low,Social Media
+C366,2025-08-01,Ahmedabad,25-34,Medium,Referral
+C367,2025-06-10,Chennai,35-44,High,Social Media
+C368,2025-03-08,Chennai,25-34,Low,Referral
+C369,2025-08-27,Mumbai,25-34,Low,Organic
+C370,2025-01-26,Pune,45-54,High,Social Media
+C371,2025-05-08,Bangalore,35-44,High,Partner
+C372,2025-04-08,Bangalore,25-34,Medium,Social Media
+C373,2025-06-07,Ahmedabad,18-24,High,Paid Ads
+C374,2025-08-23,Hyderabad,25-34,Medium,Organic
+C375,2025-05-25,Ahmedabad,25-34,High,Social Media
+C376,2025-05-27,Jaipur,18-24,Low,Referral
+C377,2025-05-16,Chennai,35-44,Medium,Social Media
+C378,2025-01-27,Gurgaon,25-34,Medium,Partner
+C379,2025-02-07,Kolkata,25-34,Medium,Partner
+C380,2025-03-02,Bangalore,45-54,Medium,Partner
+C381,2025-10-13,Chennai,35-44,Low,Paid Ads
+C382,2025-07-25,Jaipur,18-24,Low,Partner
+C383,2025-08-31,Jaipur,25-34,Medium,Paid Ads
+C384,2025-03-13,Chennai,45-54,Medium,Social Media
+C385,2025-06-03,Gurgaon,25-34,High,Paid Ads
+C386,2025-09-08,Gurgaon,25-34,High,Partner
+C387,2025-06-19,Mumbai,45-54,Medium,Organic
+C388,2025-08-31,Pune,45-54,Medium,Paid Ads
+C389,2025-10-23,Hyderabad,35-44,Medium,Referral
+C390,2025-09-26,Gurgaon,35-44,Medium,Referral
+C391,2025-01-17,Gurgaon,45-54,Low,Organic
+C392,2025-08-14,Chennai,25-34,Medium,Referral
+C393,2025-07-30,Jaipur,35-44,High,Organic
+C394,2025-03-12,Jaipur,25-34,Medium,Social Media
+C395,2025-09-27,Kolkata,25-34,Low,Paid Ads
+C396,2025-06-25,Jaipur,25-34,Medium,Partner
+C397,2025-09-05,Hyderabad,45-54,Medium,Partner
+C398,2025-04-26,Pune,35-44,Medium,Social Media
+C399,2025-06-12,Ahmedabad,25-34,High,Partner
+C400,2025-05-28,Mumbai,25-34,Medium,Social Media
+C401,2025-06-26,Bangalore,25-34,Medium,Organic
+C402,2025-06-27,Ahmedabad,35-44,Medium,Referral
+C403,2025-04-14,Jaipur,25-34,Medium,Partner
+C404,2025-03-12,Mumbai,35-44,Medium,Referral
+C405,2025-01-26,Jaipur,25-34,Low,Organic
+C406,2025-07-31,Chennai,35-44,Low,Referral
+C407,2025-01-03,Jaipur,45-54,Low,Social Media
+C408,2025-09-02,Hyderabad,35-44,Medium,Partner
+C409,2025-01-31,Mumbai,35-44,Low,Organic
+C410,2025-03-31,Kolkata,35-44,Low,Organic
+C411,2025-07-23,Ahmedabad,18-24,Medium,Partner
+C412,2025-01-20,Delhi,25-34,Medium,Partner
+C413,2025-05-26,Ahmedabad,45-54,Medium,Social Media
+C414,2025-03-10,Jaipur,25-34,Low,Organic
+C415,2025-06-19,Bangalore,35-44,Medium,Referral
+C416,2025-01-08,Chennai,35-44,Medium,Referral
+C417,2025-03-31,Gurgaon,35-44,High,Social Media
+C418,2025-09-21,Chennai,18-24,Medium,Referral
+C419,2025-03-13,Ahmedabad,25-34,Low,Partner
+C420,2025-07-16,Hyderabad,25-34,Medium,Partner
+C421,2025-06-04,Gurgaon,35-44,Low,Partner
+C422,2025-05-01,Delhi,35-44,Medium,Referral
+C423,2025-07-27,Jaipur,45-54,High,Partner
+C424,2025-03-02,Pune,25-34,Low,Referral
+C425,2025-09-02,Bangalore,25-34,High,Partner
+C426,2025-08-01,Jaipur,45-54,Medium,Referral
+C427,2025-05-07,Gurgaon,35-44,Low,Social Media
+C428,2025-09-28,Chennai,18-24,Medium,Organic
+C429,2025-10-08,Jaipur,25-34,Medium,Referral
+C430,2025-06-17,Jaipur,25-34,Medium,Paid Ads
+C431,2025-09-08,Mumbai,35-44,Medium,Organic
+C432,2025-08-21,Bangalore,25-34,Medium,Organic
+C433,2025-10-14,Ahmedabad,35-44,Medium,Organic
+C434,2025-07-22,Pune,35-44,Medium,Paid Ads
+C435,2025-02-07,Delhi,25-34,Medium,Paid Ads
+C436,2025-01-31,Mumbai,45-54,Medium,Partner
+C437,2025-07-29,Bangalore,35-44,Medium,Social Media
+C438,2025-07-11,Kolkata,25-34,High,Social Media
+C439,2025-07-12,Mumbai,35-44,Medium,Paid Ads
+C440,2025-03-10,Chennai,18-24,High,Social Media
+C441,2025-09-28,Bangalore,35-44,Low,Organic
+C442,2025-01-12,Pune,25-34,Medium,Social Media
+C443,2025-09-30,Kolkata,35-44,Low,Partner
+C444,2025-03-21,Pune,18-24,High,Organic
+C445,2025-01-17,Kolkata,35-44,High,Organic
+C446,2025-05-04,Hyderabad,18-24,Medium,Social Media
+C447,2025-01-25,Hyderabad,35-44,Medium,Referral
+C448,2025-10-04,Hyderabad,35-44,Medium,Referral
+C449,2025-09-15,Pune,25-34,High,Paid Ads
+C450,2025-06-13,Gurgaon,25-34,Medium,Partner
+C451,2025-05-02,Pune,35-44,High,Paid Ads
+C452,2025-04-24,Kolkata,25-34,Low,Paid Ads
+C453,2025-03-31,Kolkata,25-34,Low,Partner
+C454,2025-07-15,Jaipur,25-34,Medium,Referral
+C455,2025-06-03,Kolkata,18-24,Medium,Referral
+C456,2025-04-26,Pune,35-44,Low,Social Media
+C457,2025-01-30,Jaipur,25-34,Medium,Paid Ads
+C458,2025-03-10,Kolkata,25-34,Low,Organic
+C459,2025-08-19,Chennai,18-24,Medium,Referral
+C460,2025-01-27,Pune,25-34,Medium,Organic
+C461,2025-02-07,Hyderabad,35-44,Medium,Paid Ads
+C462,2025-04-22,Ahmedabad,25-34,High,Partner
+C463,2025-01-08,Hyderabad,45-54,High,Organic
+C464,2025-09-03,Hyderabad,35-44,Medium,Social Media
+C465,2025-05-03,Jaipur,25-34,Medium,Social Media
+C466,2025-10-01,Chennai,25-34,Medium,Social Media
+C467,2025-08-27,Mumbai,35-44,Medium,Partner
+C468,2025-04-15,Chennai,25-34,Low,Referral
+C469,2025-03-16,Delhi,25-34,High,Paid Ads
+C470,2025-08-02,Pune,18-24,Medium,Social Media
+C471,2025-10-19,Hyderabad,25-34,Medium,Partner
+C472,2025-05-12,Ahmedabad,45-54,Medium,Social Media
+C473,2025-08-24,Bangalore,35-44,Medium,Referral
+C474,2025-10-07,Ahmedabad,18-24,High,Organic
+C475,2025-09-26,Delhi,35-44,Low,Organic
+C476,2025-01-04,Kolkata,18-24,Medium,Organic
+C477,2025-03-19,Delhi,25-34,Medium,Organic
+C478,2025-09-05,Ahmedabad,18-24,Medium,Social Media
+C479,2025-01-07,Delhi,25-34,Medium,Partner
+C480,2025-01-09,Jaipur,35-44,Medium,Referral
+C481,2025-02-24,Mumbai,25-34,Low,Paid Ads
+C482,2025-09-27,Pune,35-44,Medium,Social Media
+C483,2025-02-10,Chennai,45-54,Medium,Referral
+C484,2025-04-26,Pune,35-44,High,Organic
+C485,2025-02-17,Kolkata,25-34,Medium,Organic
+C486,2025-01-05,Bangalore,18-24,High,Partner
+C487,2025-10-17,Mumbai,35-44,High,Referral
+C488,2025-04-19,Gurgaon,25-34,Low,Organic
+C489,2025-05-24,Jaipur,25-34,Low,Partner
+C490,2025-01-09,Hyderabad,25-34,Medium,Social Media
+C491,2025-02-09,Pune,18-24,Low,Social Media
+C492,2025-10-04,Chennai,25-34,Medium,Organic
+C493,2025-09-14,Chennai,18-24,Medium,Organic
+C494,2025-06-24,Gurgaon,35-44,High,Social Media
+C495,2025-06-17,Delhi,35-44,Medium,Social Media
+C496,2025-09-09,Hyderabad,25-34,High,Social Media
+C497,2025-04-06,Gurgaon,35-44,Low,Paid Ads
+C498,2025-06-01,Hyderabad,35-44,Low,Referral
+C499,2025-07-14,Bangalore,35-44,Medium,Organic
+C500,2025-02-16,Delhi,45-54,Medium,Partner
